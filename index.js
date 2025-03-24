@@ -350,8 +350,10 @@ async function scrapeCompaniesAndDetails(headlessMode = false, startPage, endPag
   // Launch with visible browser if headlessMode is false
   const browser = await puppeteer.launch({ 
     headless: headlessMode,
-    defaultViewport: null, // Full viewport size
-    args: ['--start-maximized', '--disable-http2'] 
+    defaultViewport: null,
+    args: ['--no-sandbox'],
+    ignoreDefaultArgs: ['--enable-automation'],
+    executablePath: '/usr/bin/google-chrome' 
   });
   
   const page = await browser.newPage();
@@ -1168,17 +1170,31 @@ async function scrapeCompanyList(page) {
 }
 
 // Save the scraped data to JSON files
+// Save the scraped data to JSON files
 function saveData(companiesData, staffData, metadata, currentPage, totalPages, pageTiming, isError = false) {
   const filename = isError ? '_partial' : '';
+  
+  // Flatten the socialLinks before saving
+  const companiesWithFlattenedSocialLinks = companiesData.map(company => {
+    if (company.socialLinks && Array.isArray(company.socialLinks)) {
+      // Convert the array of objects to a simple array of URLs
+      const flattenedLinks = company.socialLinks.map(link => link.url);
+      return {
+        ...company,
+        socialLinks: flattenedLinks
+      };
+    }
+    return company;
+  });
   
   const companiesOutput = {
     metadata: {
       ...metadata,
-      totalCompanies: companiesData.length,
+      totalCompanies: companiesWithFlattenedSocialLinks.length,
       currentProgress: `${currentPage}/${totalPages}`,
       timing: pageTiming
     },
-    companies: companiesData
+    companies: companiesWithFlattenedSocialLinks
   };
   
   const staffOutput = {
@@ -1205,8 +1221,8 @@ function saveData(companiesData, staffData, metadata, currentPage, totalPages, p
 (async () => {
   try {
     const headlessMode = false;
-    const startPage = 2; // Start scraping from page 2
-    const endPage = 3;   // End scraping at page 3
+    const startPage = 7; // Start scraping from page 2
+    const endPage = 10;   // End scraping at page 3
     
     const result = await scrapeCompaniesAndDetails(headlessMode, startPage, endPage);
     

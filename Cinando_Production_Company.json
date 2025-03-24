@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "scrapingDate": "2025-03-23T13:14:23.020Z",
+    "pagesScraped": {
+      "from": 2,
+      "to": 3
+    },
+    "filter": "Production Company",
+    "totalCompanies": 20,
+    "currentProgress": "2/3",
+    "timing": [
+      {
+        "page": 2,
+        "startTime": "2025-03-23T13:15:46.452Z",
+        "endTime": "2025-03-23T13:18:34.540Z",
+        "timeTaken": 168088,
+        "formattedTime": "0h 2m 48s",
+        "companiesScraped": 20
+      }
+    ]
+  },
+  "companies": [
+    {
+      "id": "74ca50cf-c114-494c-80a3-a4d4404731df",
+      "name": "1001 PRODUCTION",
+      "url": "https://cinando.com/en/Company/1001_production_309555/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "5 rue jabal toubkal CIL 1496 MARRAKECH, MOROCCO",
+      "contact_number": "3361373972",
+      "description": "Marie Courtin, Nourredine Hamouzaki et Bouchra Belhit, producers and partners have founded 1001 prod in Marrakech in 1990 and mainly focuses on advertising and fashion campaigns. \"Everything will disappear\" directed by Shaden Safieddine Tazi is the first short film they produce.",
+      "objective": "",
+      "links": [],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "dc6d8486-f2fb-490c-a60f-975c047c05c7",
+      "name": "10-08",
+      "url": "https://cinando.com/en/Company/1008_194280/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "51 Ellesmere Road E35QU LONDON, UNITED KINGDOM",
+      "contact_number": "44 0 7939 266141",
+      "description": "",
+      "objective": "",
+      "links": [
+        "info@10-08.co.uk",
+        "www.10-08.co.uk",
+        "https://www.10-08.co.uk/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "03943d10-cac4-4dc4-b273-2f8553f10d40",
+      "name": "101 FILMS INTERNATIONAL",
+      "url": "https://cinando.com/en/Company/101_films_international_984/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1744904.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/2381754.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Sales Agent Production Company",
+      "address": "2 John Street Clerkenwell WC1N2ES LONDON, UNITED KINGDOM",
+      "contact_number": "",
+      "description": "Affiliated with UK FILM EXPORT, CREATIVE EUROPE and IFTA, 101 Films International is a worldwide sales agent and distribution company, focusing on commercially driven feature films of all genres and budget sizes. 101 Films International represents projects at all stages of the filmmaking process, with the aim of helping producers and distributors achieve maximum exposure for their films.",
+      "objective": "",
+      "links": [
+        "eoghan@101-films.com",
+        "www.101filmsinternational.com",
+        "http://www.101filmsinternational.com/"
+      ],
+      "socialLinks": [
+        {
+          "url": "https://www.101filmsinternational.com/",
+          "type": "other"
+        }
+      ],
+      "pageScraped": 2
+    },
+    {
+      "id": "7afb66f0-52bf-45be-bf56-8078786940be",
+      "name": "101 STUDIOS",
+      "url": "https://cinando.com/en/Company/101_studios_143228/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1506571.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company Sales Agent",
+      "address": "335 N. Maple Drive Ste. 350 90210 BEVERLY HILLS, USA",
+      "contact_number": "1 424 388 0900\n                                    \n                                    \n                                         1 424 388 0919",
+      "description": "101 Studios is a global entertainment company dedicated to the acquisition, financing, development, production, and distribution of high-caliber, creator-driven storytelling. Founded by David C. Glasser (Chief Executive Officer) and David Hutkin (Chief Operating Officer), the studio empowers content creators through first-class collaboration and innovation.",
+      "objective": "",
+      "links": [
+        "reception@101studiosco.com",
+        "www.101studiosco.com",
+        "http://www.101studiosco.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "ac4026a9-6717-421a-80cd-630fadfc97fd",
+      "name": "102 DISTRIBUTION",
+      "url": "https://cinando.com/en/Company/102_distribution_108093/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1336170.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/2222079.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Distribution\n                                             : \n                                                Theatrical, TV, DVD-video, VOD, Airline, World, ITALY, USA\n                                    \n                                    \n                                        Production Company\n                                    \n                                    \n                                        Sales Agent\n                                    \n                                    \n                                        Services",
+      "address": "Via Flaminia 441 00196 ROMA, ITALY",
+      "contact_number": "39 06 62205901",
+      "description": "102 Distribution is an Italian film production, distribution and sales company, based in Rome, whose mission is to acquire and produce Italian and international movies, exploiting the rights in all distribution channels: cinemas, home video, television and new media, taking care of all the marketing aspects of the release and placement in the territories. 102 is involved also in the production, making the acquisitions and development of original new projects and buying remake rights.",
+      "objective": "",
+      "links": [
+        "sales@102distribution.com",
+        "www.102distribution.com",
+        "http://www.102distribution.com/"
+      ],
+      "socialLinks": [
+        {
+          "url": "http://www.102distribution.com/",
+          "type": "other"
+        }
+      ],
+      "pageScraped": 2
+    },
+    {
+      "id": "66092284-76fb-43d4-b28a-eadb37aa15fc",
+      "name": "1031 STUDIO",
+      "url": "https://cinando.com/en/Company/1031_studio_304833/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "5F, 77, Sinbanpo-ro 47-gil, Seocho-gu 06526 SEOUL, KOREA (South)",
+      "contact_number": "821027560433",
+      "description": "1031 Studio is a Korean entertainment company that creates original contents. 1031 Studio, based in Seoul, creates high-profile genre-bending features, with a global vision and a distinctive style that stem from both Classical and Korean cinematic legacies. We work on films and series projects across various cultural territories with an international cast.",
+      "objective": "",
+      "links": [
+        "gm.studio1031@gmail.com",
+        "studio-1031.com",
+        "https://studio-1031.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "48c83b8d-3332-480e-a12d-d52043c28615",
+      "name": "104 FILMS LIMITED",
+      "url": "https://cinando.com/en/Company/104_films_limited_236942/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "41 Vernon Road London SW14 8NU LONDON, UNITED KINGDOM",
+      "contact_number": "07702065046",
+      "description": "104 films were established in 2004 with the aim of creating a tectonic shift in the representation of disabled people both in front of and behind the camera.We help bring to the screen critically acclaimed award winning films for an international audience such as the Oscar shortlisted Unrest, BAFTA winning I Am Breathing, BAFTA Best British film nominee Notes On Blindness, BAFTA nominated Sex & Drugs & Rock & Roll plus the multi award winning Special People.",
+      "objective": "",
+      "links": [
+        "justin@104films.com",
+        "www.104films.com",
+        "http://www.104films.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "6c39cae2-bf68-4483-aa08-ae798ba10103",
+      "name": "105IVE FILMS",
+      "url": "https://cinando.com/en/Company/105ive_films_265378/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1995752.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/1995753.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "4894 ADAM CRT L3J1M4 TORONTO, CANADA",
+      "contact_number": "",
+      "description": "We are a creative film and development company based in Canada with a mandate to produce high concept feature films for domestic and international distribution.",
+      "objective": "",
+      "links": [
+        "louie@105ive.com",
+        "105ive.com",
+        "https://105ive.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "9991d95a-3338-40cb-8d4c-3f3682cd618a",
+      "name": "1065 PRODUCTIONS",
+      "url": "https://cinando.com/en/Company/1065_productions_66382/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/728781.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "21, Rue Eugène et Marie-Louise Cornet 93500 PANTIN, FRANCE",
+      "contact_number": "33 6 76 64 15 69",
+      "description": "Created in 2013 and based in Paris, 1065 Productions is a vehicle for script development. Current flagship projects include WEST OF THE MOON, a hybrid sci-fi human drama set partly in rural England in 1998 and partly on the Moon in 2036; the \"alternative biopic\" ARTHUR CRAVAN DEAD OR ALIVE, a history of the poet's posthumous life, and the comédie musicale noire TOUT VA TRÈS BIEN, a love story set in wartime (and prewar) France. All projects are fully scripted.",
+      "objective": "I am seeking pre-sales, distribution deals, equity investors and other funding sources with a view to setting up international co-productions.",
+      "links": [
+        "1065productions@gmail.com",
+        "www.a-night-in-the-kremlin.com",
+        "http://www.a-night-in-the-kremlin.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "e3a7f1ae-bd5f-4919-9cd0-4bc08cc78d57",
+      "name": "108 MEDIA CORP. (SINGAPORE)",
+      "url": "https://cinando.com/en/Company/108_media_corp_singapore_132776/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1254318.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Sales Agent Production Company",
+      "address": "The Great Room One George Street #10-01 049145 SINGAPORE, SINGAPORE",
+      "contact_number": "1 416 443 9202",
+      "description": "We are a global distribution business delivering compelling and concise content solutions with speed and flexibility. Whether you are in LA, Lithuania or Laos, 108 Media can help address the complex needs of the most diverse audience groups.In particular, 108 Media brings unparalleled access to high-quality content from emerging markets; We satisfy our clients’ demand for unique, unexpected and robust content options which are localized for specific markets.",
+      "objective": "",
+      "links": [
+        "www.108mediacorp.com",
+        "http://www.108mediacorp.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "135fe5ea-50f6-4f9c-8d7d-285073991d6c",
+      "name": "108 MEDIA CORP. (UNITED KINGDOM)",
+      "url": "https://cinando.com/en/Company/108_media_corp_united_kingdom_252795/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/2010862.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/2019736.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company\n                                    \n                                    \n                                        Publisher\n                                    \n                                    \n                                        Film Commission\n                                    \n                                    \n                                        Distribution\n                                             : \n                                                Theatrical, TV, DVD-video, VOD, Airline, World",
+      "address": "Parkshot House, 5 Kew Road, Richmond TW92PR LONDON, UNITED KINGDOM",
+      "contact_number": "",
+      "description": "Headquartered in London and Singapore with an experienced and global team operating out of offices in Toronto, Los Angeles, Tokyo, Manila, and Kuala Lumpur, 108 Media works across development, licensing & distribution, mergers & acquisitions, financing, branded ad-sales, animation, and production.",
+      "objective": "108 Media is a privately held institutional capital-backed international creative IP and media asset firm with a firm mandate on acquiring specialised literary properties and establishing footholds in emerging markets where we’re intently focused on amplifying bold new voices and championing global storytelling. With international content now in hot demand, 108 Media is uniquely placed as first-tier co-production specialists.",
+      "links": [
+        "hello@bingofilms.uk",
+        "www.108media.com",
+        "http://www.108media.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "7102ff01-cff0-4f25-b06e-68aed60decdd",
+      "name": "1080 VIRTUAL MEDIA CONSULTING LTD.",
+      "url": "https://cinando.com/en/Company/1080_virtual_media_consulting_ltd_240774/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1702716.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/1702742.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "Church Street, The Old Rectory The Old Rectory KT13 8DE WEYBRIDGE, UNITED KINGDOM",
+      "contact_number": "44 0208 1442484",
+      "description": "Focusing on edutainment. Supporting experts in sharing their knowledge in the digital world in a way that best reflects their audience's needs. Video has become an integral part of the digital knowledge-sharing environment. Hence, in addition to software solutions, we embraced feature film production, which has already been recognised by the film industry and resulted in 28 awards worldwide.",
+      "objective": "",
+      "links": [
+        "aboniecki@1080vmc.com",
+        "searchingforskylab.com",
+        "https://searchingforskylab.com/"
+      ],
+      "socialLinks": [
+        {
+          "url": "https://searchingforskylab.com/",
+          "type": "other"
+        }
+      ],
+      "pageScraped": 2
+    },
+    {
+      "id": "dba5e4f3-f6f6-47d6-8e8f-4d43656ac7ed",
+      "name": "108JAPAN CO., LTD",
+      "url": "https://cinando.com/en/Company/108japan_co_ltd_161956/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1590520.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/1619846.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Distribution Production Company",
+      "address": "8F Oceangate Minatomirai 3-7-1 Minatomirai, Nishi-ku 2200012 YOKOHAMA, JAPAN",
+      "contact_number": "81 8056563771",
+      "description": "108 JAPAN is subsidary of 108 Media Singapore. A distribution/production company based in Japan.Diverse relationship between international production, distributor, TV broadcaster, OTT platforms and festivals will create the bridges between media business in global scale.",
+      "objective": "",
+      "links": [
+        "ryo@108media.com"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "072b4eb0-2f0a-4b93-8ddc-473f8b27e6fd",
+      "name": "1091 PICTURES",
+      "url": "https://cinando.com/en/Company/1091_pictures_194113/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1852388.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/1852389.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Distribution\n                                             : \n                                                Theatrical, TV, DVD-video, VOD, Airline, World, USA\n                                    \n                                    \n                                        Sales Agent\n                                    \n                                    \n                                        Production Company",
+      "address": "800 Third Avenue, 3rd Floor 10022 NEW YORK, USA",
+      "contact_number": "",
+      "description": "Subsidiary of Chicken Soup for the Soul Entertainment. Sibling of Screen Media Ventures. 1091 Pictures is a modern distribution partner for independent film and series owners based in New York and Los Angeles, offering content licensing and delivery to over 100 destinations in over 100 countries.",
+      "objective": "",
+      "links": [
+        "help@1091pictures.com",
+        "www.1091pictures.com",
+        "http://www.1091pictures.com/"
+      ],
+      "socialLinks": [
+        {
+          "url": "http://www.1091pictures.com/",
+          "type": "other"
+        }
+      ],
+      "pageScraped": 2
+    },
+    {
+      "id": "24a81e89-28a9-410e-b024-3c35c4df2267",
+      "name": "10TH AVE PRODUCTIONS INC.",
+      "url": "https://cinando.com/en/Company/10th_ave_productions_inc_39296/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/1374074.jpg?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/1200x400/prod/company/2003423.jpg?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "209 Jean-Juneau G3A2W1 ST-AUGUSTIN-DE-DESMAURES, CANADA",
+      "contact_number": "1 418 877 0101\n                                    \n                                    \n                                         1 418 877 0101",
+      "description": "10th Ave Productions is a creative production company whose projects are aimed at youth and family audiences. Its films are distributed in more than 170 countries and territories. 10th Ave produced the first 100% canadian-made 3D animated feature, The Legend Of Sarila, followed by Rooster Doodle-Doo, Mission Kathmandu: the Adventures of Nelly & Simon and Felix and the Treasure of Morgäa. 10th Ave’s next film Katak, the Brave Beluga is in production, with numerous animated projects in development",
+      "objective": "",
+      "links": [
+        "productions@10ave.com",
+        "www.10ave.com",
+        "http://www.10ave.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "09e9947e-ce07-43ef-a2a0-47342363758b",
+      "name": "11 MILE PRODUCTIONS",
+      "url": "https://cinando.com/en/Company/11_mile_productions_304239/Detail",
+      "thumbnailLogoUrl": "https://dauvsy92u4wdt.cloudfront.net/fit-in/286x286/prod/company/2423099.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "2551 S Estes St Apt 2 80227 LAKEWOOD, USA",
+      "contact_number": "3035250848",
+      "description": "At 11 Mile Productions, our mission is to create high-quality, engaging films that inspire and entertain audiences. We believe in the power of storytelling and strive to bring unique and compelling stories to the screen.",
+      "objective": "",
+      "links": [
+        "bruce@11mileproductions.com",
+        "11mileproductions.com",
+        "https://11mileproductions.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "571ac4e5-f5be-45fb-8988-ba0c10120c8d",
+      "name": "110 FILMS",
+      "url": "https://cinando.com/en/Company/110_films_283958/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "2676 S Redondo Blvd 90016 LOS ANGELES, USA",
+      "contact_number": "303 408 2900",
+      "description": "Los Angeles based film production company that specializes in scripted features and limited series.",
+      "objective": "",
+      "links": [
+        "jason@110.film",
+        "www.110.film",
+        "http://www.110.film/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "be0a2029-8e7f-4076-b743-5114977bba1d",
+      "name": "111 PRODUCCIONES",
+      "url": "https://cinando.com/en/Company/111_producciones_269955/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "Calle La Avella 137 15048 SURQUILLO, PERU",
+      "contact_number": "51947368187",
+      "description": "Empresa Peruana Productora Cinematrográfica, publicitaria y videoclips. Nos dedicamos a desarrollar nuestros propios proyectos y contenidos así como también dar el soporte y service de producción a otras empresas cinematográficas y de publicidad locales e internacionales.",
+      "objective": "",
+      "links": [
+        "carlos@111producciones.com",
+        "www.111producciones.com",
+        "http://www.111producciones.com/"
+      ],
+      "socialLinks": [],
+      "pageScraped": 2
+    },
+    {
+      "id": "dc3c1c0e-566b-43a8-a76b-d570dfc6c122",
+      "name": "113KW",
+      "url": "https://cinando.com/en/Company/113kw_286978/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "Kristanova 20/1678 Praha 3 130 00 10400 PRAGUE, CZECH REPUBLIC",
+      "contact_number": "",
+      "description": "",
+      "objective": "",
+      "links": [],
+      "socialLinks": [
+        {
+          "url": "https://www.linkedin.com/in/113kw/",
+          "type": "linkedin"
+        },
+        {
+          "url": "https://www.imdb.com/name/nm6663704/",
+          "type": "other"
+        }
+      ],
+      "pageScraped": 2
+    },
+    {
+      "id": "bad3e001-5562-4b4b-ac1d-87fdccad94b0",
+      "name": "11475169 CANADA INC.",
+      "url": "https://cinando.com/en/Company/11475169_canada_inc_267740/Detail",
+      "thumbnailLogoUrl": "https://cinando.com/Content/images/noimg_company.png?width=286&height=286?width=286&height=286&404=noimg_company.png",
+      "backgroundImageUrl": "https://cinando.com/Content/images/pixel_gris.gif?width=1200&height=400&404=pixel_gris.gif",
+      "activity": "Production Company",
+      "address": "15 Broadfield Drive M9C1L4 TORONTO, CANADA",
+      "contact_number": "",
+      "description": "",
+      "objective": "",
+      "links": [],
+      "socialLinks": [],
+      "pageScraped": 2
+    }
+  ]
+}
